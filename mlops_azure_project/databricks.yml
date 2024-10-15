@@ -1,7 +1,7 @@
 # The name of the bundle. run `databricks bundle schema` to see the full bundle settings schema.
 bundle:
   name: mlops_azure_project
-
+# setup
 variables:
   experiment_name:
     description: Experiment name for the model training.
