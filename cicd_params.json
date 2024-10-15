@@ -1,0 +1,12 @@
+{
+  "input_root_dir": "mlops_azure_project",
+  "input_cloud": "azure",
+  "input_cicd_platform": "github_actions",
+  "input_default_branch": "defaul_test_branch",
+  "input_release_branch": "default_release_branch",
+  "cloud_specific_node_type_id": "v0.221.0",
+  "input_cli_version": "v0.221.0",
+  "test_catalog_name": "mlops_az_staging_guanyu",
+  "staging_catalog_name": "mlops_az_staging_guanyu",
+  "prod_catalog_name": "mlops_az_prod_guanyu"
+}
