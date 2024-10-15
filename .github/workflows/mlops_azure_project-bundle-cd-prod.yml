@@ -7,7 +7,7 @@ name: Bundle Deployment for mlops_azure_project Prod
 on:
   push:
     branches:
-      - 'default_release_branch'
+      - 'release'
   workflow_dispatch:
 
 defaults:
